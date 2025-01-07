@@ -1,0 +1,42 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f67546d7-b25f-43bb-a01a-f91bfa211e94",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Pendientes\n",
+    "*cambiar los scrips de scraping\n",
+    "    use como modelo el de la liga mx por que en el overview mostraba los siguientes partidos por que es \n",
+    "    liguilla pero en realida deberia usar \"scores and fixtures\" ahi si se muestra todo el calendario de juego \n",
+    "*Evaluar si es la hora tiene impacto \n",
+    "    +si lo tiene automatizar la manera en que se concatena en scraping\n",
+    "*automatiza la forma en que se concatena el veniuw en scraping\n",
+    "*arreglar el codigo de rolling para mejor prediccion\n",
+    "*experimentar con los valores y variables de randomforesstclassifier\n",
+    "*probar otros metodos de prediccion\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ad21b92e-2360-4256-847b-3cdbd2447224",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "",
+   "name": ""
+  },
+  "language_info": {
+   "name": ""
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}

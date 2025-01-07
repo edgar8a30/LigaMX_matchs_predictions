@@ -1,0 +1,237 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,opp formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt,season,team
+0,2024-07-06,21:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,1.0,0.0,Mazatlán,2.0,0.6,65.0,15206.0,Ignacio Rivero,5-4-1,4-2-3-1,,Match Report,,16,7,18.6,0,0,0,2024,Cruz Azul
+1,2024-07-13,21:10,Liga MX,Apertura 2024 Regular Season,Sat,Away,W,4.0,0.0,Monterrey,1.9,0.4,54.0,45957.0,Ignacio Rivero,4-1-4-1,4-4-2,,Match Report,,14,7,19.1,1,1,1,2024,Cruz Azul
+2,2024-07-16,21:05,Liga MX,Apertura 2024 Regular Season,Tue,Home,W,3.0,0.0,Tijuana,2.2,0.5,39.0,,Ignacio Rivero,3-4-3,4-2-3-1,,Match Report,,17,6,17.1,0,0,0,2024,Cruz Azul
+3,2024-07-20,21:05,Liga MX,Apertura 2024 Regular Season,Sat,Home,D,1.0,1.0,Toluca,1.7,0.6,67.0,,Ignacio Rivero,5-3-2,4-2-3-1,,Match Report,,21,5,16.9,1,0,0,2024,Cruz Azul
+4,2024-08-23,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,W,2.0,0.0,Querétaro,2.0,0.3,63.0,,Ignacio Rivero,3-1-4-2,3-5-2,,Match Report,,22,4,19.6,0,1,1,2024,Cruz Azul
+5,2024-08-31,21:10,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,4.0,1.0,América,0.9,0.7,54.0,,Erik Lira,3-1-4-2,3-4-3,César Arturo Ramos,Match Report,,10,6,18.1,0,0,0,2024,Cruz Azul
+6,2024-09-14,20:35,Liga MX,Apertura 2024 Regular Season,Sat,Away,W,2.0,1.0,León,2.0,1.3,57.0,,Charly Rodríguez,3-1-4-2,4-1-2-1-2,Maximiliano Quintero,Match Report,,22,7,18.2,0,0,0,2024,Cruz Azul
+7,2024-09-17,19:00,Liga MX,Apertura 2024 Regular Season,Tue,Away,L,1.0,3.0,Atlético,0.6,2.7,56.0,,Ignacio Rivero,3-1-4-2,4-2-3-1,Oscar Mejia,Match Report,,13,4,16.9,0,0,0,2024,Cruz Azul
+8,2024-09-21,21:05,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,1.0,0.0,Guadalajara,1.9,0.8,56.0,,Ignacio Rivero,5-4-1,4-1-3-2,Daniel Quintero,Match Report,,18,5,16.0,0,0,0,2024,Cruz Azul
+9,2024-09-28,19:05,Liga MX,Apertura 2024 Regular Season,Sat,Away,W,4.0,2.0,Pachuca,2.4,1.8,70.0,,Ignacio Rivero,3-1-4-2,4-1-4-1,Adonai Escobedo,Match Report,,17,9,18.3,1,0,0,2024,Cruz Azul
+10,2024-10-05,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,3.0,0.0,Necaxa,1.9,0.7,68.0,,Charly Rodríguez,3-1-4-2,4-3-1-2,Guillermo Pacheco,Match Report,,13,3,17.0,1,0,0,2024,Cruz Azul
+11,2024-10-18,21:05,Liga MX,Apertura 2024 Regular Season,Fri,Away,W,2.0,1.0,Puebla,2.4,0.4,62.0,,Charly Rodríguez,3-1-4-2,5-3-2,Charles Terrazas,Match Report,,15,2,19.4,1,1,2,2024,Cruz Azul
+12,2024-10-23,19:00,Liga MX,Apertura 2024 Regular Season,Wed,Home,W,4.0,0.0,FC Juárez,2.9,0.3,63.0,,Charly Rodríguez,3-4-3,4-3-3,Vicente Arce,Match Report,,25,9,16.2,0,0,0,2024,Cruz Azul
+0,2024-07-06,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,D,0.0,0.0,Guadalajara,0.6,1.3,49.0,37251.0,Alexis Vega,4-2-3-1,4-2-3-1,,Match Report,,11,2,18.7,1,0,0,2024,Toluca
+1,2024-07-13,19:10,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,3.0,2.0,FC Juárez,2.0,1.1,46.0,23320.0,Claudio Baeza,4-2-3-1,4-2-3-1,,Match Report,,9,3,13.8,0,0,0,2024,Toluca
+2,2024-07-17,21:00,Liga MX,Apertura 2024 Regular Season,Wed,Home,W,3.0,0.0,Mazatlán,1.2,0.4,54.0,,Marcel Ruiz,4-2-3-1,4-4-2,,Match Report,,13,7,15.9,0,0,0,2024,Toluca
+3,2024-07-20,21:05,Liga MX,Apertura 2024 Regular Season,Sat,Away,D,1.0,1.0,Cruz Azul,0.6,1.7,33.0,,Claudio Baeza,4-2-3-1,5-3-2,,Match Report,,6,2,19.4,0,0,0,2024,Toluca
+4,2024-08-25,13:00,Liga MX,Apertura 2024 Regular Season,Sun,Home,W,2.0,1.0,Atlético,1.1,1.0,46.0,,Alexis Vega,4-2-3-1,4-2-3-1,,Match Report,,14,4,19.2,0,0,0,2024,Toluca
+5,2024-08-31,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,W,2.0,1.0,Monterrey,0.4,2.5,33.0,,Claudio Baeza,5-4-1,4-3-1-2,Fernando Guerrero,Match Report,,3,2,13.5,0,0,0,2024,Toluca
+6,2024-09-14,16:45,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,4.0,0.0,Tijuana,3.1,0.9,52.0,24507.0,Alexis Vega,4-2-3-1,4-1-4-1,Ismael Lopez,Match Report,,22,9,17.7,1,0,0,2024,Toluca
+7,2024-09-17,19:00,Liga MX,Apertura 2024 Regular Season,Tue,Away,D,2.0,2.0,Pachuca,1.8,1.2,57.0,,Claudio Baeza,4-2-3-1,4-2-3-1,Jesus Lopez,Match Report,,11,4,21.1,2,1,1,2024,Toluca
+8,2024-09-22,19:05,Liga MX,Apertura 2024 Regular Season,Sun,Away,L,0.0,2.0,Santos,0.9,1.4,63.0,,Marcel Ruiz,4-2-3-1,4-2-3-1,Iván López,Match Report,,18,3,20.7,1,0,0,2024,Toluca
+9,2024-09-28,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,4.0,1.0,Atlas,0.8,1.5,51.0,,Claudio Baeza,4-2-3-1,4-2-3-1,Charles Terrazas,Match Report,,11,5,17.2,0,0,0,2024,Toluca
+10,2024-10-05,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,D,1.0,1.0,UNAM,0.5,1.2,65.0,,Claudio Baeza,4-2-3-1,5-3-2,Adonai Escobedo,Match Report,,11,2,22.2,2,0,0,2024,Toluca
+11,2024-10-18,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,W,1.0,0.0,Querétaro,1.9,0.9,61.0,,Claudio Baeza,4-2-3-1,4-1-4-1,Maximiliano Quintero,Match Report,,18,8,18.9,0,0,0,2024,Toluca
+12,2024-10-22,21:05,Liga MX,Apertura 2024 Regular Season,Tue,Home,W,5.0,0.0,Puebla,2.8,0.4,59.0,,Claudio Baeza,3-4-3,3-5-2,Jorge Camacho,Match Report,,17,11,18.4,0,0,1,2024,Toluca
+0,2024-07-07,19:06,Liga MX,Apertura 2024 Regular Season,Sun,Away,W,1.0,0.0,Pachuca,1.7,0.9,44.0,,Sergio Canales,4-4-2,4-2-3-1,,Match Report,,8,3,18.0,0,0,0,2024,Monterrey
+1,2024-07-13,21:10,Liga MX,Apertura 2024 Regular Season,Sat,Home,L,0.0,4.0,Cruz Azul,0.4,1.9,46.0,45957.0,Sergio Canales,4-4-2,4-1-4-1,,Match Report,,9,0,22.7,0,0,0,2024,Monterrey
+2,2024-07-17,19:00,Liga MX,Apertura 2024 Regular Season,Wed,Away,W,1.0,0.0,Necaxa,0.8,0.3,63.0,,Sergio Canales,4-2-3-1,4-2-3-1,,Match Report,,11,3,20.8,0,0,0,2024,Monterrey
+3,2024-07-20,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,2.0,1.0,Querétaro,2.4,1.0,65.0,,Héctor Moreno,4-2-3-1,5-4-1,,Match Report,,15,5,18.9,1,0,1,2024,Monterrey
+4,2024-08-16,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,W,2.0,1.0,Puebla,1.4,1.0,71.0,,Héctor Moreno,4-2-3-1,5-4-1,,Match Report,,15,5,23.1,0,0,0,2024,Monterrey
+5,2024-08-23,20:05,Liga MX,Apertura 2024 Regular Season,Fri,Away,D,2.0,2.0,Tijuana,2.7,1.4,49.0,,Sergio Canales,4-3-1-2,4-1-4-1,,Match Report,,16,5,18.5,0,0,0,2024,Monterrey
+6,2024-08-31,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,L,1.0,2.0,Toluca,2.5,0.4,67.0,,Sergio Canales,4-3-1-2,5-4-1,Fernando Guerrero,Match Report,,15,5,18.2,0,1,1,2024,Monterrey
+7,2024-09-14,21:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,W,2.0,0.0,Santos,2.4,1.7,54.0,,Héctor Moreno,4-3-1-2,4-2-3-1,Erick Miranda,Match Report,,19,7,14.3,0,0,0,2024,Monterrey
+8,2024-09-18,21:00,Liga MX,Apertura 2024 Regular Season,Wed,Home,W,3.0,2.0,FC Juárez,2.7,2.1,55.0,,Héctor Moreno,4-1-3-2,4-2-3-1,Salvador Pérez Villalobos,Match Report,,13,3,18.7,0,1,1,2024,Monterrey
+9,2024-09-21,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,D,0.0,0.0,Mazatlán,0.2,2.1,44.0,43721.0,Héctor Moreno,4-3-1-2,3-4-1-2,Ismael Lopez,Match Report,,5,2,31.0,0,0,0,2024,Monterrey
+10,2024-09-28,21:05,Liga MX,Apertura 2024 Regular Season,Sat,Away,D,1.0,1.0,Guadalajara,0.3,1.8,52.0,,Héctor Moreno,4-1-2-1-2◆,4-1-4-1,Jesus Lopez,Match Report,,5,2,19.0,1,0,0,2024,Monterrey
+11,2024-10-05,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,0.0,1.0,Atlético,0.9,0.5,56.0,,Sergio Canales,4-2-3-1,3-5-2,Víctor Cáceres,Match Report,,17,1,18.4,0,0,0,2024,Monterrey
+12,2024-10-19,21:10,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,4.0,2.0,UANL,1.7,2.0,44.0,,Héctor Moreno,4-4-2,4-2-3-1,Oscar Mejia,Match Report,,6,5,21.1,1,1,1,2024,Monterrey
+13,2024-10-23,19:00,Liga MX,Apertura 2024 Regular Season,Wed,Home,D,0.0,0.0,UNAM,0.8,0.5,64.0,,Héctor Moreno,4-4-2,5-3-2,Adonai Escobedo,Match Report,,16,3,18.7,0,0,0,2024,Monterrey
+0,2024-07-07,13:00,Liga MX,Apertura 2024 Regular Season,Sun,Home,W,4.0,1.0,León,2.1,0.7,50.0,19950.0,Lisandro Magallán,4-1-4-1,4-2-3-1,,Match Report,,14,7,17.7,1,0,0,2024,Pumas UNAM
+1,2024-07-13,19:25,Liga MX,Apertura 2024 Regular Season,Sat,Away,D,1.0,1.0,Santos,2.4,1.1,51.0,,Lisandro Magallán,4-2-3-1,4-2-3-1,,Match Report,,28,5,16.8,2,0,0,2024,Pumas UNAM
+2,2024-07-17,19:06,Liga MX,Apertura 2024 Regular Season,Wed,Away,W,2.0,1.0,FC Juárez,0.5,0.9,50.0,,Lisandro Magallán,4-2-3-1,4-2-3-1,,Match Report,,12,4,19.3,0,0,0,2024,Pumas UNAM
+3,2024-07-21,17:00,Liga MX,Apertura 2024 Regular Season,Sun,Home,W,2.0,0.0,Pachuca,2.0,0.8,39.0,,Ulises Rivas,4-2-3-1,4-2-3-1,,Match Report,,8,4,18.6,0,1,1,2024,Pumas UNAM
+4,2024-08-24,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,1.0,2.0,Atlas,1.9,1.0,57.0,,Lisandro Magallán,4-3-3,4-2-3-1,,Match Report,,18,5,20.8,0,0,1,2024,Pumas UNAM
+5,2024-09-01,17:00,Liga MX,Apertura 2024 Regular Season,Sun,Home,L,1.0,3.0,UANL,1.5,1.4,55.0,,Lisandro Magallán,5-4-1,4-2-3-1,Oscar Mejia,Match Report,,18,5,20.7,1,0,0,2024,Pumas UNAM
+6,2024-09-13,21:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,L,0.0,2.0,Necaxa,1.0,1.6,72.0,,Lisandro Magallán,3-4-3,4-2-3-1,Katia García,Match Report,,8,0,16.8,0,0,0,2024,Pumas UNAM
+7,2024-09-17,21:05,Liga MX,Apertura 2024 Regular Season,Tue,Home,W,1.0,0.0,Puebla,2.1,0.3,72.0,,Lisandro Magallán,3-4-3,4-2-3-1,Iván López,Match Report,,23,6,17.4,0,0,0,2024,Pumas UNAM
+8,2024-09-22,17:00,Liga MX,Apertura 2024 Regular Season,Sun,Home,W,1.0,0.0,Tijuana,2.6,0.2,41.0,,Lisandro Magallán,5-3-2,4-2-3-1,Luis Enrique Santander,Match Report,,20,11,15.7,0,0,0,2024,Pumas UNAM
+9,2024-09-29,18:00,Liga MX,Apertura 2024 Regular Season,Sun,Away,W,1.0,0.0,América,0.8,0.4,31.0,23401.0,Lisandro Magallán,3-4-1-2,3-4-1-2,Fernando Hernández,Match Report,,5,4,22.9,0,0,0,2024,Pumas UNAM
+10,2024-10-05,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,D,1.0,1.0,Toluca,1.2,0.5,35.0,,Lisandro Magallán,5-3-2,4-2-3-1,Adonai Escobedo,Match Report,,15,5,24.0,0,0,0,2024,Pumas UNAM
+11,2024-10-20,13:00,Liga MX,Apertura 2024 Regular Season,Sun,Home,W,3.0,0.0,Atlético,2.3,0.8,45.0,,Lisandro Magallán,5-3-2,3-5-1-1,Guillermo Pacheco,Match Report,,16,6,17.8,0,0,0,2024,Pumas UNAM
+12,2024-10-23,19:00,Liga MX,Apertura 2024 Regular Season,Wed,Away,D,0.0,0.0,Monterrey,0.5,0.8,36.0,,Lisandro Magallán,5-3-2,4-4-2,Adonai Escobedo,Match Report,,8,1,21.3,0,0,0,2024,Pumas UNAM
+0,2024-07-06,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,1.0,0.0,Necaxa,1.7,0.7,56.0,40371.0,Guido Pizarro,4-2-3-1,4-2-3-1,,Match Report,,16,3,22.8,1,1,1,2024,UANL
+1,2024-07-12,21:05,Liga MX,Apertura 2024 Regular Season,Fri,Away,D,1.0,1.0,Atlas,1.6,0.6,55.0,,Guido Pizarro,4-2-3-1,4-2-3-1,,Match Report,,15,4,19.5,3,0,0,2024,UANL
+2,2024-07-17,21:00,Liga MX,Apertura 2024 Regular Season,Wed,Home,W,1.0,0.0,América,1.1,1.6,54.0,,Guido Pizarro,4-4-2,4-2-3-1,,Match Report,,20,6,19.4,1,0,0,2024,UANL
+3,2024-07-20,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,W,3.0,0.0,Santos,2.0,0.8,60.0,,Guido Pizarro,4-2-3-1,4-2-3-1,,Match Report,,15,8,16.7,0,0,0,2024,UANL
+4,2024-08-24,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,D,1.0,1.0,Guadalajara,1.7,1.3,50.0,,Guido Pizarro,4-4-2,4-1-4-1,,Match Report,,13,4,16.6,0,0,1,2024,UANL
+5,2024-09-01,17:00,Liga MX,Apertura 2024 Regular Season,Sun,Away,W,3.0,1.0,UNAM,1.4,1.5,45.0,,Guido Pizarro,4-2-3-1,5-4-1,Oscar Mejia,Match Report,,8,2,25.7,0,1,1,2024,UANL
+6,2024-09-13,20:10,Liga MX,Apertura 2024 Regular Season,Fri,Home,W,1.0,0.0,Atlético,0.9,0.4,36.0,,Guido Pizarro,4-2-3-1,4-2-3-1,Martín Molina,Match Report,,12,3,15.9,0,0,0,2024,UANL
+7,2024-09-17,21:00,Liga MX,Apertura 2024 Regular Season,Tue,Away,L,0.0,1.0,Querétaro,1.6,1.5,75.0,,Guido Pizarro,4-2-3-1,4-1-4-1,Fernando Guerrero,Match Report,,23,4,19.2,1,0,0,2024,UANL
+8,2024-09-22,19:10,Liga MX,Apertura 2024 Regular Season,Sun,Away,W,1.0,0.0,FC Juárez,1.9,0.3,56.0,,Guido Pizarro,4-2-3-1,4-2-3-1,Víctor Cáceres,Match Report,,17,5,17.9,0,0,0,2024,UANL
+9,2024-09-27,20:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,D,2.0,2.0,León,2.2,0.7,64.0,,Guido Pizarro,4-2-3-1,4-4-2,Daniel Quintero,Match Report,,21,10,14.9,0,0,0,2024,UANL
+10,2024-10-05,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,1.0,0.0,Puebla,0.7,0.6,61.0,,Nahuel Guzmán,4-2-3-1,5-3-2,Vicente Arce,Match Report,,16,3,22.3,1,0,0,2024,UANL
+11,2024-10-19,21:10,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,2.0,4.0,Monterrey,2.0,1.7,56.0,,Guido Pizarro,4-2-3-1,4-4-2,Oscar Mejia,Match Report,,17,7,19.0,1,1,1,2024,UANL
+12,2024-10-22,20:06,Liga MX,Apertura 2024 Regular Season,Tue,Away,L,0.0,2.0,Mazatlán,2.3,0.8,58.0,,Guido Pizarro,4-2-3-1,5-4-1,César Arturo Ramos,Match Report,,32,6,19.9,1,0,0,2024,UANL
+0,2024-07-05,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,W,2.0,1.0,Querétaro,2.1,0.8,62.0,9237.0,Christian Rivera,4-2-3-1,4-4-2,,Match Report,,18,5,20.7,0,0,0,2024,Tijuana
+1,2024-07-12,20:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,W,4.0,2.0,Guadalajara,2.3,1.2,47.0,,Joe Corona,3-2-4-1,4-2-3-1,,Match Report,,12,4,17.0,0,1,1,2024,Tijuana
+2,2024-07-16,21:05,Liga MX,Apertura 2024 Regular Season,Tue,Away,L,0.0,3.0,Cruz Azul,0.5,2.2,61.0,,Christian Rivera,4-2-3-1,3-4-3,,Match Report,,8,1,22.6,0,0,0,2024,Tijuana
+3,2024-07-19,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,D,1.0,1.0,Atlético,1.3,1.1,60.0,,Fernando Madrigal,4-2-3-1,3-4-3,,Match Report,,9,3,22.2,0,1,1,2024,Tijuana
+4,2024-08-18,17:05,Liga MX,Apertura 2024 Regular Season,Sun,Home,W,3.0,1.0,Santos,2.4,1.4,70.0,,Christian Rivera,4-1-4-1,4-2-3-1,,Match Report,,21,7,18.4,0,0,0,2024,Tijuana
+5,2024-08-23,20:05,Liga MX,Apertura 2024 Regular Season,Fri,Home,D,2.0,2.0,Monterrey,1.4,2.7,51.0,,Christian Rivera,4-1-4-1,4-3-1-2,,Match Report,,9,4,20.0,1,1,1,2024,Tijuana
+6,2024-08-30,20:05,Liga MX,Apertura 2024 Regular Season,Fri,Home,W,2.0,1.0,León,1.6,0.4,72.0,,Christian Rivera,4-1-4-1,4-1-2-1-2,Víctor Cáceres,Match Report,,13,6,17.3,1,0,0,2024,Tijuana
+7,2024-09-14,16:45,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,0.0,4.0,Toluca,0.9,3.1,48.0,24507.0,Joe Corona,4-1-4-1,4-2-3-1,Ismael Lopez,Match Report,,9,2,21.6,0,0,0,2024,Tijuana
+8,2024-09-22,17:00,Liga MX,Apertura 2024 Regular Season,Sun,Away,L,0.0,1.0,UNAM,0.2,2.6,59.0,,Christian Rivera,4-2-3-1,5-3-2,Luis Enrique Santander,Match Report,,6,2,24.2,0,0,0,2024,Tijuana
+9,2024-09-27,20:05,Liga MX,Apertura 2024 Regular Season,Fri,Home,W,1.0,0.0,Mazatlán,1.0,0.6,64.0,,Christian Rivera,4-2-3-1,5-4-1,Víctor Cáceres,Match Report,,13,7,16.6,0,0,0,2024,Tijuana
+10,2024-10-04,20:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,W,2.0,1.0,Pachuca,0.8,1.1,58.0,,Christian Rivera,4-2-3-1,4-2-3-1,Iván López,Match Report,,14,6,24.7,0,0,0,2024,Tijuana
+11,2024-10-18,21:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,W,2.0,1.0,Necaxa,1.6,2.6,54.0,,Christian Rivera,3-4-3,3-4-1-2,Adonai Escobedo,Match Report,,10,2,21.3,0,1,1,2024,Tijuana
+12,2024-10-23,20:05,Liga MX,Apertura 2024 Regular Season,Wed,Home,D,2.0,2.0,América,1.3,0.9,62.0,,Christian Rivera,4-2-3-1,4-2-3-1,Fernando Hernández,Match Report,,10,5,17.2,0,1,1,2024,Tijuana
+0,2024-07-06,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,D,0.0,0.0,Toluca,1.3,0.6,51.0,37251.0,Javier Hernández,4-2-3-1,4-2-3-1,,Match Report,,15,4,20.5,0,0,0,2024,Guadalajara
+1,2024-07-12,20:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,L,2.0,4.0,Tijuana,1.2,2.3,53.0,,Javier Hernández,4-2-3-1,3-2-4-1,,Match Report,,11,2,15.3,0,0,0,2024,Guadalajara
+2,2024-07-16,19:00,Liga MX,Apertura 2024 Regular Season,Tue,Away,W,2.0,0.0,Querétaro,2.2,0.6,57.0,,Javier Hernández,4-2-3-1,5-4-1,,Match Report,,14,6,17.6,0,0,0,2024,Guadalajara
+3,2024-07-20,17:05,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,2.0,0.0,Mazatlán,0.7,1.0,55.0,,Javier Hernández,4-1-4-1,4-4-2,,Match Report,,13,4,22.5,2,0,0,2024,Guadalajara
+4,2024-08-24,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,D,1.0,1.0,UANL,1.3,1.7,50.0,,Erick Gutiérrez,4-1-4-1,4-4-2,,Match Report,,10,6,18.2,0,0,0,2024,Guadalajara
+5,2024-08-31,17:05,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,5.0,0.0,FC Juárez,3.3,1.2,56.0,,Erick Gutiérrez,4-1-4-1,4-2-3-1,Adonai Escobedo,Match Report,,12,6,15.9,1,1,1,2024,Guadalajara
+6,2024-09-14,18:50,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,0.0,1.0,América,0.8,0.5,67.0,,Erick Gutiérrez,4-2-3-1,4-4-2,Víctor Cáceres,Match Report,,16,1,20.5,0,0,0,2024,Guadalajara
+7,2024-09-18,19:05,Liga MX,Apertura 2024 Regular Season,Wed,Home,W,2.0,0.0,León,1.4,0.8,46.0,,Erick Gutiérrez,4-2-3-1,4-4-2,Guillermo Pacheco,Match Report,,10,3,21.0,2,1,1,2024,Guadalajara
+8,2024-09-21,21:05,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,0.0,1.0,Cruz Azul,0.8,1.9,44.0,,Erick Gutiérrez,4-1-3-2,5-4-1,Daniel Quintero,Match Report,,12,5,14.6,0,0,0,2024,Guadalajara
+9,2024-09-28,21:05,Liga MX,Apertura 2024 Regular Season,Sat,Home,D,1.0,1.0,Monterrey,1.8,0.3,48.0,,Erick Gutiérrez,4-1-4-1,4-1-2-1-2,Jesus Lopez,Match Report,,11,3,16.4,0,0,0,2024,Guadalajara
+10,2024-10-05,19:05,Liga MX,Apertura 2024 Regular Season,Sat,Home,L,2.0,3.0,Atlas,1.2,1.3,70.0,,Víctor Guzmán,4-1-4-1,4-2-3-1,Fernando Hernández,Match Report,,20,7,15.9,1,0,0,2024,Guadalajara
+11,2024-10-19,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,W,2.0,0.0,Pachuca,0.3,1.0,46.0,,Gilberto Sepúlveda,5-3-2,4-2-3-1,César Arturo Ramos,Match Report,,3,2,14.8,0,0,0,2024,Guadalajara
+12,2024-10-22,19:05,Liga MX,Apertura 2024 Regular Season,Tue,Home,W,3.0,2.0,Necaxa,1.9,1.2,60.0,31120.0,Fernando Beltrán,5-3-2,3-4-1-2,Víctor Cáceres,Match Report,,24,5,20.5,1,0,0,2024,Guadalajara
+0,2024-07-06,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,2.0,1.0,América,1.2,1.1,37.0,21480.0,Julio Domínguez,3-4-3,4-2-3-1,,Match Report,,11,5,20.7,0,0,0,2024,Atletico
+1,2024-07-12,20:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,D,2.0,2.0,Mazatlán,1.9,3.1,47.0,,Javier Güemez,3-4-3,4-2-3-1,,Match Report,,10,4,23.2,1,1,1,2024,Atletico
+2,2024-07-16,19:00,Liga MX,Apertura 2024 Regular Season,Tue,Away,L,0.0,2.0,Pachuca,0.4,0.8,57.0,,Javier Güemez,4-4-2,4-2-3-1,,Match Report,,10,3,21.1,0,0,0,2024,Atletico
+3,2024-07-19,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,D,1.0,1.0,Tijuana,1.1,1.3,40.0,,Julio Domínguez,3-4-3,4-2-3-1,,Match Report,,15,5,19.2,0,0,0,2024,Atletico
+4,2024-08-18,20:00,Liga MX,Apertura 2024 Regular Season,Sun,Home,W,4.0,0.0,Querétaro,3.3,0.3,51.0,,Julio Domínguez,4-2-3-1,4-4-2,,Match Report,,18,4,20.2,3,2,2,2024,Atletico
+5,2024-08-25,13:00,Liga MX,Apertura 2024 Regular Season,Sun,Away,L,1.0,2.0,Toluca,1.0,1.1,54.0,,Julio Domínguez,4-2-3-1,4-2-3-1,,Match Report,,18,7,18.4,0,0,0,2024,Atletico
+6,2024-08-30,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,W,2.0,1.0,Atlas,0.8,1.5,50.0,,Javier Güemez,4-2-3-1,4-2-3-1,Jorge Camacho,Match Report,,11,6,20.1,0,0,0,2024,Atletico
+7,2024-09-13,20:10,Liga MX,Apertura 2024 Regular Season,Fri,Away,L,0.0,1.0,UANL,0.4,0.9,64.0,,Javier Güemez,4-2-3-1,4-2-3-1,Martín Molina,Match Report,,13,2,25.3,0,0,0,2024,Atletico
+8,2024-09-17,19:00,Liga MX,Apertura 2024 Regular Season,Tue,Home,W,3.0,1.0,Cruz Azul,2.7,0.6,44.0,,Javier Güemez,4-2-3-1,3-1-4-2,Oscar Mejia,Match Report,,13,4,13.9,0,0,0,2024,Atletico
+9,2024-09-21,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,0.0,1.0,León,1.3,1.2,51.0,,Javier Güemez,4-3-1-2,4-4-2,Luis García,Match Report,,10,1,17.1,1,0,0,2024,Atletico
+10,2024-09-28,21:10,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,3.0,1.0,Santos,1.6,1.0,58.0,,Ricardo Chávez Soto,4-4-2,4-2-3-1,Maximiliano Quintero,Match Report,,16,9,14.5,1,0,0,2024,Atletico
+11,2024-10-05,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,1.0,0.0,Monterrey,0.5,0.9,44.0,,Javier Güemez,3-5-2,4-2-3-1,Víctor Cáceres,Match Report,,9,4,20.3,0,0,0,2024,Atletico
+12,2024-10-20,13:00,Liga MX,Apertura 2024 Regular Season,Sun,Away,L,0.0,3.0,UNAM,0.8,2.3,55.0,,Javier Güemez,3-5-1-1,5-3-2,Guillermo Pacheco,Match Report,,14,4,23.0,0,0,0,2024,Atletico
+0,2024-07-05,21:10,Liga MX,Apertura 2024 Regular Season,Fri,Away,D,2.0,2.0,FC Juárez,1.0,1.1,43.0,7046.0,Aldo Rocha,4-2-3-1,4-1-4-1,,Match Report,,11,3,17.8,1,0,0,2024,Atlas
+1,2024-07-12,21:05,Liga MX,Apertura 2024 Regular Season,Fri,Home,D,1.0,1.0,UANL,0.6,1.6,45.0,,Aldo Rocha,4-2-3-1,4-2-3-1,,Match Report,,10,3,17.5,0,0,0,2024,Atlas
+2,2024-07-16,19:00,Liga MX,Apertura 2024 Regular Season,Tue,Home,W,1.0,0.0,Santos,2.0,0.1,50.0,,Aldo Rocha,4-2-3-1,4-2-3-1,,Match Report,,22,4,15.7,0,0,0,2024,Atlas
+3,2024-07-19,21:05,Liga MX,Apertura 2024 Regular Season,Fri,Away,W,2.0,1.0,Puebla,0.8,0.8,44.0,,Aldo Rocha,4-2-3-1,4-1-4-1,,Match Report,,7,3,13.8,0,0,0,2024,Atlas
+4,2024-08-24,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,2.0,1.0,UNAM,1.0,1.9,43.0,,Aldo Rocha,4-2-3-1,4-3-3,,Match Report,,12,4,16.8,0,0,0,2024,Atlas
+5,2024-08-30,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,L,1.0,2.0,Atlético,1.5,0.8,50.0,,Aldo Rocha,4-2-3-1,4-2-3-1,Jorge Camacho,Match Report,,11,4,18.6,1,0,0,2024,Atlas
+6,2024-09-13,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,W,2.0,0.0,Pachuca,1.1,0.3,56.0,,Aldo Rocha,4-2-3-1,4-2-3-1,Luis Enrique Santander,Match Report,,11,3,23.0,2,0,0,2024,Atlas
+7,2024-09-17,19:00,Liga MX,Apertura 2024 Regular Season,Tue,Away,L,0.0,3.0,América,0.6,1.3,42.0,,Aldo Rocha,4-2-3-1,4-3-3,Adonai Escobedo,Match Report,,6,1,29.9,0,0,0,2024,Atlas
+8,2024-09-20,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,L,0.0,1.0,Querétaro,1.0,1.0,70.0,,Aldo Rocha,4-2-3-1,4-1-4-1,Jesus Lopez,Match Report,,19,3,20.6,0,0,0,2024,Atlas
+9,2024-09-28,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,1.0,4.0,Toluca,1.5,0.8,49.0,,Aldo Rocha,4-2-3-1,4-2-3-1,Charles Terrazas,Match Report,,17,3,24.1,1,0,0,2024,Atlas
+10,2024-10-05,19:05,Liga MX,Apertura 2024 Regular Season,Sat,Away,W,3.0,2.0,Guadalajara,1.3,1.2,30.0,,Aldo Rocha,4-2-3-1,4-1-4-1,Fernando Hernández,Match Report,,10,3,17.4,1,0,0,2024,Atlas
+11,2024-10-18,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,D,0.0,0.0,Mazatlán,0.9,0.7,50.0,,Aldo Rocha,4-2-3-1,5-4-1,Daniel Quintero,Match Report,,14,3,19.9,1,0,0,2024,Atlas
+12,2024-10-23,21:00,Liga MX,Apertura 2024 Regular Season,Wed,Away,D,0.0,0.0,León,0.2,1.1,38.0,,Aldo Rocha,4-2-3-1,4-4-2,Oscar Mejia,Match Report,,5,0,24.4,0,0,0,2024,Atlas
+0,2024-07-06,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,1.0,2.0,Atlético,1.1,1.2,63.0,21480.0,Henry Martín,4-2-3-1,3-4-3,,Match Report,,11,6,20.9,1,0,0,2024,America
+1,2024-07-12,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,W,3.0,1.0,Querétaro,2.2,0.5,59.0,9997.0,Henry Martín,4-4-2,5-4-1,,Match Report,,11,4,14.6,0,0,0,2024,America
+2,2024-07-17,21:00,Liga MX,Apertura 2024 Regular Season,Wed,Away,L,0.0,1.0,UANL,1.6,1.1,46.0,,Henry Martín,4-2-3-1,4-4-2,,Match Report,,12,4,15.9,1,0,0,2024,America
+3,2024-07-20,21:10,Liga MX,Apertura 2024 Regular Season,Sat,Away,W,2.0,1.0,FC Juárez,2.4,0.4,58.0,,Henry Martín,4-2-3-1,4-2-3-1,,Match Report,,19,7,17.2,0,0,0,2024,America
+4,2024-08-24,21:05,Liga MX,Apertura 2024 Regular Season,Sat,Home,L,0.0,1.0,Puebla,1.7,0.6,70.0,,Henry Martín,4-2-3-1,5-4-1,,Match Report,,21,4,18.7,0,0,0,2024,America
+5,2024-08-31,21:10,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,1.0,4.0,Cruz Azul,0.7,0.9,46.0,,Henry Martín,3-4-3,3-1-4-2,César Arturo Ramos,Match Report,,12,3,21.5,0,0,0,2024,America
+6,2024-09-14,18:50,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,1.0,0.0,Guadalajara,0.5,0.8,33.0,,Henry Martín,4-4-2,4-2-3-1,Víctor Cáceres,Match Report,,9,2,22.1,0,0,0,2024,America
+7,2024-09-17,19:00,Liga MX,Apertura 2024 Regular Season,Tue,Home,W,3.0,0.0,Atlas,1.3,0.6,58.0,,Álvaro Fidalgo,4-3-3,4-2-3-1,Adonai Escobedo,Match Report,,13,7,19.3,1,0,0,2024,America
+8,2024-09-21,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,D,1.0,1.0,Necaxa,1.5,1.1,74.0,,Henry Martín,4-2-3-1,4-2-3-1,Oscar Mejia,Match Report,,18,6,18.3,1,0,0,2024,America
+9,2024-09-29,18:00,Liga MX,Apertura 2024 Regular Season,Sun,Home,L,0.0,1.0,UNAM,0.4,0.8,69.0,23401.0,Álvaro Fidalgo,3-4-1-2,3-4-1-2,Fernando Hernández,Match Report,,12,5,23.0,2,0,0,2024,America
+10,2024-10-05,21:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,D,1.0,1.0,León,1.2,0.6,65.0,,Henry Martín,4-2-3-1,4-4-2,César Arturo Ramos,Match Report,,14,5,18.9,0,0,0,2024,America
+11,2024-10-19,19:05,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,3.0,0.0,Santos,2.8,0.2,71.0,,Jonathan dos Santos,3-4-3,4-1-3-2,Jesus Lopez,Match Report,,27,7,15.3,0,0,0,2024,America
+12,2024-10-23,20:05,Liga MX,Apertura 2024 Regular Season,Wed,Away,D,2.0,2.0,Tijuana,0.9,1.3,38.0,,Henry Martín,4-2-3-1,4-2-3-1,Fernando Hernández,Match Report,,17,10,17.5,0,0,0,2024,America
+0,2024-07-06,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,0.0,1.0,UANL,0.7,1.7,44.0,40371.0,Alexis Francisco Peña,4-2-3-1,4-2-3-1,,Match Report,,10,3,16.1,0,0,0,2024,Necaxa
+1,2024-07-13,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,4.0,1.0,Puebla,2.4,0.9,46.0,13540.0,Alexis Francisco Peña,4-2-3-1,4-1-4-1,Abraham Quirarte,Match Report,,24,9,19.7,0,0,0,2024,Necaxa
+2,2024-07-17,19:00,Liga MX,Apertura 2024 Regular Season,Wed,Home,L,0.0,1.0,Monterrey,0.3,0.8,37.0,,Alexis Francisco Peña,4-2-3-1,4-2-3-1,,Match Report,,10,1,21.8,0,0,0,2024,Necaxa
+3,2024-07-21,19:05,Liga MX,Apertura 2024 Regular Season,Sun,Away,D,1.0,1.0,León,0.4,1.7,34.0,,Fernando Arce Jr.,5-3-2,4-1-4-1,,Match Report,,6,4,12.6,0,0,0,2024,Necaxa
+4,2024-08-24,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,3.0,0.0,FC Juárez,1.9,0.8,31.0,,Ezequiel Unsain,4-2-3-1,4-2-3-1,,Match Report,,12,6,18.5,0,1,1,2024,Necaxa
+5,2024-09-01,19:05,Liga MX,Apertura 2024 Regular Season,Sun,Away,L,2.0,3.0,Santos,3.3,1.6,34.0,,Ezequiel Unsain,4-2-3-1,4-4-2,Guillermo Pacheco,Match Report,,18,5,19.2,0,1,1,2024,Necaxa
+6,2024-09-13,21:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,W,2.0,0.0,UNAM,1.6,1.0,28.0,,Ezequiel Unsain,4-2-3-1,3-4-3,Katia García,Match Report,,14,6,17.3,2,0,0,2024,Necaxa
+7,2024-09-18,19:00,Liga MX,Apertura 2024 Regular Season,Wed,Away,D,0.0,0.0,Mazatlán,0.2,1.1,38.0,,Ezequiel Unsain,4-2-3-1,3-4-3,Daniel Quintero,Match Report,,6,1,25.7,0,0,0,2024,Necaxa
+8,2024-09-21,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,D,1.0,1.0,América,1.1,1.5,26.0,,Ezequiel Unsain,4-2-3-1,4-2-3-1,Oscar Mejia,Match Report,,11,3,22.9,1,0,0,2024,Necaxa
+9,2024-09-27,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,D,0.0,0.0,Querétaro,1.3,0.5,43.0,7844.0,Ezequiel Unsain,4-2-3-1,4-1-4-1,Jorge Camacho,Match Report,,23,5,21.1,1,0,0,2024,Necaxa
+10,2024-10-05,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,0.0,3.0,Cruz Azul,0.7,1.9,32.0,,Ezequiel Unsain,4-3-1-2,3-1-4-2,Guillermo Pacheco,Match Report,,6,1,16.1,0,0,0,2024,Necaxa
+11,2024-10-18,21:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,L,1.0,2.0,Tijuana,2.6,1.6,46.0,,Ezequiel Unsain,3-4-1-2,3-4-3,Adonai Escobedo,Match Report,,23,6,18.6,0,1,1,2024,Necaxa
+12,2024-10-22,19:05,Liga MX,Apertura 2024 Regular Season,Tue,Away,L,2.0,3.0,Guadalajara,1.2,1.9,40.0,31120.0,Ezequiel Unsain,3-4-1-2,5-3-2,Víctor Cáceres,Match Report,,9,6,17.9,0,0,0,2024,Necaxa
+0,2024-07-07,13:00,Liga MX,Apertura 2024 Regular Season,Sun,Away,L,1.0,4.0,UNAM,0.7,2.1,50.0,19950.0,Fidel Ambríz,4-2-3-1,4-1-4-1,,Match Report,,9,3,27.2,0,0,0,2024,Leon
+1,2024-07-13,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,D,0.0,0.0,Pachuca,0.3,0.9,57.0,13279.0,Fidel Ambríz,4-2-3-1,4-2-3-1,,Match Report,,11,5,24.1,1,0,0,2024,Leon
+2,2024-07-16,21:00,Liga MX,Apertura 2024 Regular Season,Tue,Away,D,2.0,2.0,Puebla,0.7,2.7,61.0,,Fidel Ambríz,3-1-4-2,4-1-4-1,,Match Report,,9,6,21.2,1,0,0,2024,Leon
+3,2024-07-21,19:05,Liga MX,Apertura 2024 Regular Season,Sun,Home,D,1.0,1.0,Necaxa,1.7,0.4,66.0,,Fidel Ambríz,4-1-4-1,5-3-2,,Match Report,,18,3,19.0,0,1,1,2024,Leon
+4,2024-08-24,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,D,1.0,1.0,Santos,2.4,0.8,60.0,,Fidel Ambríz,4-2-3-1,4-4-2,,Match Report,,25,6,18.4,1,0,0,2024,Leon
+5,2024-08-30,20:05,Liga MX,Apertura 2024 Regular Season,Fri,Away,L,1.0,2.0,Tijuana,0.4,1.6,28.0,,Andrés Guardado,4-1-2-1-2◆,4-1-4-1,Víctor Cáceres,Match Report,,8,3,22.2,0,0,0,2024,Leon
+6,2024-09-14,20:35,Liga MX,Apertura 2024 Regular Season,Sat,Home,L,1.0,2.0,Cruz Azul,1.3,2.0,43.0,,Andrés Guardado,4-1-2-1-2◆,3-1-4-2,Maximiliano Quintero,Match Report,,9,4,14.9,0,0,0,2024,Leon
+7,2024-09-18,19:05,Liga MX,Apertura 2024 Regular Season,Wed,Away,L,0.0,2.0,Guadalajara,0.8,1.4,54.0,,Andrés Guardado,4-4-2,4-2-3-1,Guillermo Pacheco,Match Report,,10,4,20.5,1,0,0,2024,Leon
+8,2024-09-21,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,W,1.0,0.0,Atlético,1.2,1.3,49.0,,Jaine Barreiro,4-4-2,4-3-1-2,Luis García,Match Report,,13,4,16.6,0,0,0,2024,Leon
+9,2024-09-27,20:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,D,2.0,2.0,UANL,0.7,2.2,36.0,,Andrés Guardado,4-4-2,4-2-3-1,Daniel Quintero,Match Report,,10,5,18.2,1,0,0,2024,Leon
+10,2024-10-05,21:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,D,1.0,1.0,América,0.6,1.2,35.0,,Andrés Guardado,4-4-2,4-2-3-1,César Arturo Ramos,Match Report,,10,3,19.9,0,0,0,2024,Leon
+11,2024-10-19,19:06,Liga MX,Apertura 2024 Regular Season,Sat,Away,W,3.0,2.0,FC Juárez,0.6,1.1,50.0,,Andrés Guardado,4-4-2,4-4-2,Víctor Cáceres,Match Report,,10,4,21.5,0,0,0,2024,Leon
+12,2024-10-23,21:00,Liga MX,Apertura 2024 Regular Season,Wed,Home,D,0.0,0.0,Atlas,1.1,0.2,62.0,,Andrés Guardado,4-4-2,4-2-3-1,Oscar Mejia,Match Report,,17,6,18.7,0,0,0,2024,Leon
+0,2024-07-06,21:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,0.0,1.0,Cruz Azul,0.6,2.0,35.0,15206.0,Hugo González Durán,4-2-3-1,5-4-1,,Match Report,,8,1,17.0,0,0,0,2024,Mazatlan
+1,2024-07-12,20:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,D,2.0,2.0,Atlético,3.1,1.9,53.0,,Hugo González Durán,4-2-3-1,3-4-3,,Match Report,,17,4,17.7,0,0,1,2024,Mazatlan
+2,2024-07-17,21:00,Liga MX,Apertura 2024 Regular Season,Wed,Away,L,0.0,3.0,Toluca,0.4,1.2,46.0,,Hugo González Durán,4-4-2,4-2-3-1,,Match Report,,7,2,20.8,0,0,0,2024,Mazatlan
+3,2024-07-20,17:05,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,0.0,2.0,Guadalajara,1.0,0.7,45.0,,Hugo González Durán,4-4-2,4-1-4-1,,Match Report,,10,4,23.7,1,0,0,2024,Mazatlan
+4,2024-08-23,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,W,3.0,0.0,Pachuca,3.1,0.4,63.0,,Hugo González Durán,3-4-3,4-2-3-1,,Match Report,,26,10,18.8,0,0,0,2024,Mazatlan
+5,2024-08-30,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,D,1.0,1.0,Puebla,2.1,0.3,68.0,,Hugo González Durán,3-4-3,5-4-1,Ismael Lopez,Match Report,,24,7,17.6,0,0,0,2024,Mazatlan
+6,2024-09-13,20:10,Liga MX,Apertura 2024 Regular Season,Fri,Away,L,0.0,1.0,FC Juárez,1.3,0.9,63.0,,Hugo González Durán,3-4-3,4-2-3-1,Fernando Hernández,Match Report,,17,5,20.1,1,0,0,2024,Mazatlan
+7,2024-09-18,19:00,Liga MX,Apertura 2024 Regular Season,Wed,Home,D,0.0,0.0,Necaxa,1.1,0.2,62.0,,Hugo González Durán,3-4-3,4-2-3-1,Daniel Quintero,Match Report,,15,3,21.8,1,0,0,2024,Mazatlan
+8,2024-09-21,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,D,0.0,0.0,Monterrey,2.1,0.2,56.0,43721.0,Hugo González Durán,3-4-1-2,4-3-1-2,Ismael Lopez,Match Report,,16,5,16.3,0,0,0,2024,Mazatlan
+9,2024-09-27,20:05,Liga MX,Apertura 2024 Regular Season,Fri,Away,L,0.0,1.0,Tijuana,0.6,1.0,36.0,,Hugo González Durán,5-4-1,4-2-3-1,Víctor Cáceres,Match Report,,9,3,19.7,0,0,0,2024,Mazatlan
+10,2024-10-04,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,D,2.0,2.0,Querétaro,1.4,2.1,45.0,7773.0,Hugo González Durán,3-5-2,4-2-3-1,Oscar Mejia,Match Report,,13,5,19.3,1,0,0,2024,Mazatlan
+11,2024-10-18,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,D,0.0,0.0,Atlas,0.7,0.9,50.0,,Hugo González Durán,5-4-1,4-2-3-1,Daniel Quintero,Match Report,,11,4,19.1,1,0,0,2024,Mazatlan
+12,2024-10-22,20:06,Liga MX,Apertura 2024 Regular Season,Tue,Home,W,2.0,0.0,UANL,0.8,2.3,42.0,,Hugo González Durán,5-4-1,4-2-3-1,César Arturo Ramos,Match Report,,13,5,17.5,0,0,0,2024,Mazatlan
+0,2024-07-05,16:45,Liga MX,Apertura 2024 Regular Season,Fri,Home,W,1.0,0.0,Santos,1.5,0.5,41.0,8331.0,Diego De Buen,4-1-4-1,4-2-3-1,,Match Report,,15,4,19.5,0,1,1,2024,Puebla
+1,2024-07-13,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,1.0,4.0,Necaxa,0.9,2.4,54.0,13540.0,Diego De Buen,4-1-4-1,4-2-3-1,Abraham Quirarte,Match Report,,17,5,17.7,1,0,0,2024,Puebla
+2,2024-07-16,21:00,Liga MX,Apertura 2024 Regular Season,Tue,Home,D,2.0,2.0,León,2.7,0.7,39.0,,Diego De Buen,4-1-4-1,3-1-4-2,,Match Report,,21,7,20.9,0,1,1,2024,Puebla
+3,2024-07-19,21:05,Liga MX,Apertura 2024 Regular Season,Fri,Home,L,1.0,2.0,Atlas,0.8,0.8,56.0,,Diego De Buen,4-1-4-1,4-2-3-1,,Match Report,,15,2,24.4,1,0,0,2024,Puebla
+4,2024-08-16,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,L,1.0,2.0,Monterrey,1.0,1.4,29.0,,Diego De Buen,5-4-1,4-2-3-1,,Match Report,,14,6,18.5,0,0,0,2024,Puebla
+5,2024-08-24,21:05,Liga MX,Apertura 2024 Regular Season,Sat,Away,W,1.0,0.0,América,0.6,1.7,30.0,,Diego De Buen,5-4-1,4-2-3-1,,Match Report,,11,2,21.2,0,0,0,2024,Puebla
+6,2024-08-30,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,D,1.0,1.0,Mazatlán,0.3,2.1,32.0,,Diego De Buen,5-4-1,3-4-3,Ismael Lopez,Match Report,,3,3,24.2,0,0,0,2024,Puebla
+7,2024-09-13,18:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,W,2.0,1.0,Querétaro,1.6,0.6,49.0,8266.0,Diego De Buen,4-4-2,4-2-3-1,Vicente Arce,Match Report,,16,6,26.7,2,1,1,2024,Puebla
+8,2024-09-17,21:05,Liga MX,Apertura 2024 Regular Season,Tue,Away,L,0.0,1.0,UNAM,0.3,2.1,28.0,,Diego De Buen,4-2-3-1,3-4-3,Iván López,Match Report,,6,4,27.2,0,0,0,2024,Puebla
+9,2024-09-20,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,L,2.0,3.0,Pachuca,1.5,1.2,39.0,,Diego De Buen,4-2-3-1,4-2-3-1,Maximiliano Quintero,Match Report,,9,4,19.4,0,0,0,2024,Puebla
+10,2024-09-27,18:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,L,2.0,3.0,FC Juárez,3.2,1.2,51.0,,Diego De Buen,4-2-3-1,4-4-2,Oscar Mejia,Match Report,,19,5,17.8,0,1,1,2024,Puebla
+11,2024-10-05,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,0.0,1.0,UANL,0.6,0.7,39.0,,Diego De Buen,5-3-2,4-2-3-1,Vicente Arce,Match Report,,12,2,24.5,0,0,0,2024,Puebla
+12,2024-10-18,21:05,Liga MX,Apertura 2024 Regular Season,Fri,Home,L,1.0,2.0,Cruz Azul,0.4,2.4,38.0,,Diego De Buen,5-3-2,3-1-4-2,Charles Terrazas,Match Report,,8,3,29.8,0,0,0,2024,Puebla
+13,2024-10-22,21:05,Liga MX,Apertura 2024 Regular Season,Tue,Away,L,0.0,5.0,Toluca,0.4,2.8,41.0,,Diego De Buen,3-5-2,3-4-3,Jorge Camacho,Match Report,,12,2,23.8,0,0,0,2024,Puebla
+0,2024-07-07,19:06,Liga MX,Apertura 2024 Regular Season,Sun,Home,L,0.0,1.0,Monterrey,0.9,1.7,56.0,,Gustavo Cabral,4-2-3-1,4-4-2,,Match Report,,17,3,19.8,0,0,0,2024,Pachuca
+1,2024-07-13,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,D,0.0,0.0,León,0.9,0.3,43.0,13279.0,Gustavo Cabral,4-2-3-1,4-2-3-1,,Match Report,,9,3,20.4,0,0,0,2024,Pachuca
+2,2024-07-16,19:00,Liga MX,Apertura 2024 Regular Season,Tue,Home,W,2.0,0.0,Atlético,0.8,0.4,43.0,,Carlos Moreno,4-2-3-1,4-4-2,,Match Report,,10,3,23.8,0,0,0,2024,Pachuca
+3,2024-07-21,17:00,Liga MX,Apertura 2024 Regular Season,Sun,Away,L,0.0,2.0,UNAM,0.8,2.0,61.0,,Gustavo Cabral,4-2-3-1,4-2-3-1,,Match Report,,12,2,17.8,0,0,0,2024,Pachuca
+4,2024-08-23,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,L,0.0,3.0,Mazatlán,0.4,3.1,37.0,,Gustavo Cabral,4-2-3-1,3-4-3,,Match Report,,5,3,20.1,0,0,0,2024,Pachuca
+5,2024-08-31,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,D,1.0,1.0,Querétaro,2.3,0.1,69.0,,Carlos Moreno,4-2-3-1,4-1-4-1,Iván López,Match Report,,21,5,23.1,0,0,1,2024,Pachuca
+6,2024-09-13,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,L,0.0,2.0,Atlas,0.3,1.1,44.0,,Carlos Moreno,4-2-3-1,4-2-3-1,Luis Enrique Santander,Match Report,,6,2,19.8,1,0,0,2024,Pachuca
+7,2024-09-17,19:00,Liga MX,Apertura 2024 Regular Season,Tue,Home,D,2.0,2.0,Toluca,1.2,1.8,43.0,,Salomón Rondón,4-2-3-1,4-2-3-1,Jesus Lopez,Match Report,,12,6,19.9,0,0,0,2024,Pachuca
+8,2024-09-20,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,W,3.0,2.0,Puebla,1.2,1.5,61.0,,Gustavo Cabral,4-2-3-1,4-2-3-1,Maximiliano Quintero,Match Report,,18,4,23.4,0,0,0,2024,Pachuca
+9,2024-09-28,19:05,Liga MX,Apertura 2024 Regular Season,Sat,Home,L,2.0,4.0,Cruz Azul,1.8,2.4,30.0,,Gustavo Cabral,4-1-4-1,3-1-4-2,Adonai Escobedo,Match Report,,12,5,20.6,0,0,0,2024,Pachuca
+10,2024-10-04,20:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,L,1.0,2.0,Tijuana,1.1,0.8,42.0,,Gustavo Cabral,4-2-3-1,4-2-3-1,Iván López,Match Report,,12,1,20.3,0,0,0,2024,Pachuca
+11,2024-10-19,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,L,0.0,2.0,Guadalajara,1.0,0.3,54.0,,Salomón Rondón,4-2-3-1,5-3-2,César Arturo Ramos,Match Report,,22,7,24.4,3,0,0,2024,Pachuca
+12,2024-10-22,19:00,Liga MX,Apertura 2024 Regular Season,Tue,Away,D,1.0,1.0,Santos,1.8,1.1,47.0,6531.0,Carlos Moreno,4-2-3-1,4-2-3-1,Daniel Quintero,Match Report,,24,3,18.5,0,0,0,2024,Pachuca
+0,2024-07-05,21:10,Liga MX,Apertura 2024 Regular Season,Fri,Home,D,2.0,2.0,Atlas,1.1,1.0,57.0,7046.0,Dieter Villalpando,4-1-4-1,4-2-3-1,,Match Report,,10,1,25.3,1,1,1,2024,FC Juarez
+1,2024-07-13,19:10,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,2.0,3.0,Toluca,1.1,2.0,54.0,23320.0,Francisco Calvo,4-2-3-1,4-2-3-1,,Match Report,,10,5,14.8,0,0,0,2024,FC Juarez
+2,2024-07-17,19:06,Liga MX,Apertura 2024 Regular Season,Wed,Home,L,1.0,2.0,UNAM,0.9,0.5,50.0,,Francisco Calvo,4-2-3-1,4-2-3-1,,Match Report,,11,4,18.0,0,0,0,2024,FC Juarez
+3,2024-07-20,21:10,Liga MX,Apertura 2024 Regular Season,Sat,Home,L,1.0,2.0,América,0.4,2.4,42.0,,Francisco Calvo,4-2-3-1,4-2-3-1,,Match Report,,9,6,26.3,0,0,0,2024,FC Juarez
+4,2024-08-24,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,0.0,3.0,Necaxa,0.8,1.9,69.0,,Dieter Villalpando,4-2-3-1,4-2-3-1,,Match Report,,14,2,19.4,0,0,0,2024,FC Juarez
+5,2024-08-31,17:05,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,0.0,5.0,Guadalajara,1.2,3.3,44.0,,Carlos Salcedo,4-2-3-1,4-1-4-1,Adonai Escobedo,Match Report,,12,3,15.2,0,0,0,2024,FC Juarez
+6,2024-09-13,20:10,Liga MX,Apertura 2024 Regular Season,Fri,Home,W,1.0,0.0,Mazatlán,0.9,1.3,37.0,,Dieter Villalpando,4-2-3-1,3-4-3,Fernando Hernández,Match Report,,12,3,17.8,0,0,0,2024,FC Juarez
+7,2024-09-18,21:00,Liga MX,Apertura 2024 Regular Season,Wed,Away,L,2.0,3.0,Monterrey,2.1,2.7,45.0,,Carlos Salcedo,4-2-3-1,4-1-3-2,Salvador Pérez Villalobos,Match Report,,15,4,15.4,0,0,0,2024,FC Juarez
+8,2024-09-22,19:10,Liga MX,Apertura 2024 Regular Season,Sun,Home,L,0.0,1.0,UANL,0.3,1.9,44.0,,Carlos Salcedo,4-2-3-1,4-2-3-1,Víctor Cáceres,Match Report,,9,1,21.9,1,0,0,2024,FC Juarez
+9,2024-09-27,18:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,W,3.0,2.0,Puebla,1.2,3.2,49.0,,Carlos Salcedo,4-4-2,4-2-3-1,Oscar Mejia,Match Report,,10,5,23.1,2,1,1,2024,FC Juarez
+10,2024-10-06,20:05,Liga MX,Apertura 2024 Regular Season,Sun,Away,W,2.0,0.0,Santos,1.5,0.9,43.0,,Carlos Salcedo,4-4-1-1,4-2-3-1,Ismael Lopez,Match Report,,13,4,18.8,0,0,0,2024,FC Juarez
+11,2024-10-19,19:06,Liga MX,Apertura 2024 Regular Season,Sat,Home,L,2.0,3.0,León,1.1,0.6,50.0,,Carlos Salcedo,4-4-2,4-4-2,Víctor Cáceres,Match Report,,16,6,19.0,2,0,0,2024,FC Juarez
+12,2024-10-23,19:00,Liga MX,Apertura 2024 Regular Season,Wed,Away,L,0.0,4.0,Cruz Azul,0.3,2.9,37.0,,Carlos Salcedo,4-3-3,3-4-3,Vicente Arce,Match Report,,11,3,31.9,1,0,0,2024,FC Juarez
+0,2024-07-05,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,L,1.0,2.0,Tijuana,0.8,2.1,38.0,9237.0,Kevin Escamilla,4-4-2,4-2-3-1,,Match Report,,9,5,17.5,1,0,0,2024,Queretaro
+1,2024-07-12,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,L,1.0,3.0,América,0.5,2.2,41.0,9997.0,Kevin Escamilla,5-4-1,4-4-2,,Match Report,,9,1,18.4,0,0,0,2024,Queretaro
+2,2024-07-16,19:00,Liga MX,Apertura 2024 Regular Season,Tue,Home,L,0.0,2.0,Guadalajara,0.6,2.2,43.0,,Kevin Escamilla,5-4-1,4-2-3-1,,Match Report,,15,3,23.0,0,0,0,2024,Queretaro
+3,2024-07-20,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,1.0,2.0,Monterrey,1.0,2.4,35.0,,Pablo Barrera,5-4-1,4-2-3-1,,Match Report,,6,3,23.0,0,0,0,2024,Queretaro
+4,2024-08-18,20:00,Liga MX,Apertura 2024 Regular Season,Sun,Away,L,0.0,4.0,Atlético,0.3,3.3,49.0,,Kevin Escamilla,4-4-2,4-2-3-1,,Match Report,,10,1,31.5,0,0,0,2024,Queretaro
+5,2024-08-23,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,L,0.0,2.0,Cruz Azul,0.3,2.0,37.0,,Jaime Gómez Valencia,3-5-2,3-1-4-2,,Match Report,,4,3,16.5,0,0,0,2024,Queretaro
+6,2024-08-31,17:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,D,1.0,1.0,Pachuca,0.1,2.3,31.0,,Pablo Barrera,4-1-4-1,4-2-3-1,Iván López,Match Report,,5,1,23.4,0,0,0,2024,Queretaro
+7,2024-09-13,18:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,L,1.0,2.0,Puebla,0.6,1.6,51.0,8266.0,Pablo Barrera,4-2-3-1,4-4-2,Vicente Arce,Match Report,,11,2,17.3,0,0,0,2024,Queretaro
+8,2024-09-17,21:00,Liga MX,Apertura 2024 Regular Season,Tue,Home,W,1.0,0.0,UANL,1.5,1.6,25.0,,Kevin Escamilla,4-1-4-1,4-2-3-1,Fernando Guerrero,Match Report,,8,2,14.3,0,0,0,2024,Queretaro
+9,2024-09-20,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,W,1.0,0.0,Atlas,1.0,1.0,30.0,,Kevin Escamilla,4-1-4-1,4-2-3-1,Jesus Lopez,Match Report,,10,3,16.5,1,0,0,2024,Queretaro
+10,2024-09-27,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,D,0.0,0.0,Necaxa,0.5,1.3,57.0,7844.0,Kevin Escamilla,4-1-4-1,4-2-3-1,Jorge Camacho,Match Report,,13,4,21.5,1,0,0,2024,Queretaro
+11,2024-10-04,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Away,D,2.0,2.0,Mazatlán,2.1,1.4,55.0,7773.0,Kevin Escamilla,4-2-3-1,3-5-2,Oscar Mejia,Match Report,,21,10,17.8,0,0,0,2024,Queretaro
+12,2024-10-18,19:00,Liga MX,Apertura 2024 Regular Season,Fri,Home,L,0.0,1.0,Toluca,0.9,1.9,39.0,,Kevin Escamilla,4-1-4-1,4-2-3-1,Maximiliano Quintero,Match Report,,14,3,16.4,0,0,0,2024,Queretaro
+0,2024-07-05,16:45,Liga MX,Apertura 2024 Regular Season,Fri,Away,L,0.0,1.0,Puebla,0.5,1.5,59.0,8331.0,Bruno Amione,4-2-3-1,4-1-4-1,,Match Report,,6,2,23.8,1,0,0,2024,Santos Laguna
+1,2024-07-13,19:25,Liga MX,Apertura 2024 Regular Season,Sat,Home,D,1.0,1.0,UNAM,1.1,2.4,49.0,,Carlos Acevedo,4-2-3-1,4-2-3-1,,Match Report,,8,1,21.3,0,1,1,2024,Santos Laguna
+2,2024-07-16,19:00,Liga MX,Apertura 2024 Regular Season,Tue,Away,L,0.0,1.0,Atlas,0.1,2.0,50.0,,Carlos Acevedo,4-2-3-1,4-2-3-1,,Match Report,,2,0,31.3,1,0,0,2024,Santos Laguna
+3,2024-07-20,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,L,0.0,3.0,UANL,0.8,2.0,40.0,,Carlos Acevedo,4-2-3-1,4-2-3-1,,Match Report,,14,6,20.6,2,0,0,2024,Santos Laguna
+4,2024-08-18,17:05,Liga MX,Apertura 2024 Regular Season,Sun,Away,L,1.0,3.0,Tijuana,1.4,2.4,30.0,,Carlos Acevedo,4-2-3-1,4-1-4-1,,Match Report,,7,2,16.5,2,0,0,2024,Santos Laguna
+5,2024-08-24,19:00,Liga MX,Apertura 2024 Regular Season,Sat,Away,D,1.0,1.0,León,0.8,2.4,40.0,,Carlos Acevedo,4-4-2,4-2-3-1,,Match Report,,10,5,21.9,1,0,0,2024,Santos Laguna
+6,2024-09-01,19:05,Liga MX,Apertura 2024 Regular Season,Sun,Home,W,3.0,2.0,Necaxa,1.6,3.3,66.0,,Carlos Acevedo,4-4-2,4-2-3-1,Guillermo Pacheco,Match Report,,19,7,21.4,1,0,0,2024,Santos Laguna
+7,2024-09-14,21:00,Liga MX,Apertura 2024 Regular Season,Sat,Home,L,0.0,2.0,Monterrey,1.7,2.4,46.0,,Carlos Acevedo,4-2-3-1,4-3-1-2,Erick Miranda,Match Report,,16,5,18.4,4,0,0,2024,Santos Laguna
+8,2024-09-22,19:05,Liga MX,Apertura 2024 Regular Season,Sun,Home,W,2.0,0.0,Toluca,1.4,0.9,37.0,,Carlos Acevedo,4-2-3-1,4-2-3-1,Iván López,Match Report,,7,4,19.4,2,0,0,2024,Santos Laguna
+9,2024-09-28,21:10,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,1.0,3.0,Atlético,1.0,1.6,42.0,,Carlos Acevedo,4-2-3-1,4-4-2,Maximiliano Quintero,Match Report,,8,5,17.6,1,0,0,2024,Santos Laguna
+10,2024-10-06,20:05,Liga MX,Apertura 2024 Regular Season,Sun,Home,L,0.0,2.0,FC Juárez,0.9,1.5,57.0,,Carlos Acevedo,4-2-3-1,4-4-1-1,Ismael Lopez,Match Report,,12,4,17.6,0,0,0,2024,Santos Laguna
+11,2024-10-19,19:05,Liga MX,Apertura 2024 Regular Season,Sat,Away,L,0.0,3.0,América,0.2,2.8,29.0,,Carlos Acevedo,4-1-3-2,3-4-3,Jesus Lopez,Match Report,,5,3,16.4,0,0,0,2024,Santos Laguna
+12,2024-10-22,19:00,Liga MX,Apertura 2024 Regular Season,Tue,Home,D,1.0,1.0,Pachuca,1.1,1.8,53.0,6531.0,Carlos Acevedo,4-2-3-1,4-2-3-1,Daniel Quintero,Match Report,,9,5,21.1,1,0,0,2024,Santos Laguna
